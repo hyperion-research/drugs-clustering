@@ -1,0 +1,208 @@
+Drug Name,Age,Degree
+Levamisole,575,2
+Carbachol,815,0
+Bethanechol,851,121
+Ambenonium,827,299
+Methacholine,395,121
+Cytisine,659,0
+Isoflurophate,839,300
+Malathion,443,1
+Demecarium,719,299
+Physostigmine,1727,299
+Echothiophate,719,2
+Neostigmine,1055,564
+Levallorphan,815,50
+Anileridine,731,77
+Methadyl Acetate,311,0
+Alvimopan,131,50
+Glycine,491,0
+Pethidine,911,0
+Menthol,2939,0
+Levomethadyl Acetate,311,0
+Heroin,1451,0
+Levosimendan,227,515
+Papaverine,1259,515
+Oxtriphylline,815,557
+Enoximone,359,5
+Ibudilast,359,530
+Miglitol,275,469
+Voglibose,299,469
+Cetuximab,191,243
+Indecainide,359,0
+Oxiconazole,431,0
+Terconazole,383,0
+Hexylcaine,803,0
+Cinchocaine,899,272
+Prilocaine,671,33
+Proparacaine,791,1
+Benzonatate,731,0
+Oxybuprocaine,791,1
+Cromoglicic acid,611,0
+Tioconazole,455,0
+Tocainide,455,1
+Benzocaine,1403,31
+Econazole,539,0
+Sertaconazole,191,0
+Ajmaline,731,358
+Aprindine,515,377
+Phenazopyridine,707,32
+Permethrin,395,0
+Afatinib,71,471
+LULICONAZOLE,71,0
+Regadenoson,131,37
+Drotaverine,647,1
+Acetyldigitoxin,779,369
+Naftifine,371,0
+Dorzolamide,299,167
+Ethacrynic acid,635,0
+Ethinamate,767,0
+Butenafine,275,0
+Ouabain,1331,536
+Brinzolamide,227,0
+Mafenide,851,0
+Succinic acid,131,85
+Chlormerodrin,803,0
+Pyridoxal Phosphate,959,0
+Pyruvic acid,347,0
+L-Alanine,575,0
+Arbaclofen,95,0
+Guanadrel,431,429
+Alseroxylon,803,0
+Dipivefrin,491,1
+Fenfluramine,671,403
+Apraclonidine,371,28
+Deserpidine,743,328
+Chloroprocaine,803,350
+L-DOPA,623,0
+Ergonovine,959,0
+Ginkgo biloba,551,554
+Methamphetamine,911,0
+Naphazoline,923,623
+Propylhexedrine,839,0
+Carteolol,467,170
+Metipranolol,359,170
+Levobunolol,407,0
+Betazole,791,0
+Ipratropium bromide,539,0
+Metixene,707,528
+Trihexyphenidyl,839,553
+Oxyphencyclimine,719,493
+Procyclidine,767,553
+Ethopropazine,803,0
+Methylscopolamine bromide,863,0
+Tridihexethyl,779,493
+Anisotropine Methylbromide,683,0
+Histamine Phosphate,959,0
+Homatropine Methylbromide,1667,492
+Cryptenamine,779,328
+Tropicamide,815,225
+Glycopyrrolate,695,0
+Carphenazine,683,24
+Doxacurium chloride,323,0
+Diphenidol,623,493
+Alizapride,455,24
+Propericiazine,599,0
+Isopropamide,743,493
+Mepenzolate,755,493
+Betahistine,611,191
+Bromopride,503,25
+Cisatracurium Besylate,287,0
+Pirenzepine,419,518
+Diphemanil Methylsulfate,803,493
+Cycrimine,791,493
+Cyclopentolate,791,226
+Lindane,815,0
+Gadopentetate dimeglumine,383,0
+Epinastine,191,0
+Tripelennamine,875,271
+Methdilazine,707,115
+Ketotifen,491,389
+Emedastine,311,0
+Levocabastine,311,412
+Diphenylpyraline,815,33
+Phenindamine,863,33
+Pheniramine,851,386
+Clofedanol,731,24
+Bepotastine,227,0
+Mepyramine,851,518
+Alcaftadine,107,0
+Antazoline,851,388
+Dimetindene,707,500
+Isothipendyl,743,33
+Roxatidine acetate,395,135
+Chlorcyclizine,839,388
+Travoprost,215,278
+Carboprost Tromethamine,479,0
+Latanoprost,287,276
+Alprostadil,455,168
+Bimatoprost,215,279
+Dinoprostone,563,290
+Misoprostol,395,23
+Dinoprost Tromethamine,527,111
+Tafluprost,83,109
+Hirulog,227,0
+Suramin,1187,0
+Amlexanox,275,0
+Flavopiridol,143,0
+Cefdinir,335,303
+Clomifene,635,429
+Zalcitabine,323,112
+Chlorotrianisene,803,384
+Conjugated Estrogens,935,0
+Fluticasone Propionate,347,0
+Medroxyprogesterone Acetate,731,0
+Oxandrolone,659,333
+Estrone,815,235
+Norethindrone,743,0
+Ethynodiol,647,0
+Drostanolone,695,0
+Dienestrol,815,235
+Nandrolone phenpropionate,719,160
+Fluoxymesterone,755,156
+Testosterone Propionate,983,0
+Estropipate,611,0
+Quinestrol,611,384
+Nandrolone decanoate,683,170
+Diflorasone,491,0
+Alclometasone,407,0
+Medrysone,587,0
+Amcinonide,491,0
+Fluorometholone,719,0
+Beclomethasone,563,0
+Desoximetasone,611,0
+Azelaic Acid,275,0
+Fluocinolone Acetonide,695,0
+Halobetasol Propionate,335,0
+Flumethasone (pivalate),659,0
+Clocortolone,503,0
+Flurandrenolide,683,0
+Loteprednol,251,430
+Clobetasol propionate,551,0
+Fluocinonide,587,0
+Prednicarbate,335,0
+Desonide,563,0
+Difluprednate,491,0
+Stavudine,299,336
+Acetohydroxamic Acid,431,0
+Fondaparinux sodium,215,0
+Lymecycline,671,344
+Oxytetracycline,827,403
+Demeclocycline,719,345
+Spectinomycin,575,46
+Methacycline,671,0
+Rolitetracycline,719,278
+Valrubicin,251,0
+Podofilox,2387,0
+Sodium stibogluconate,947,0
+Besifloxacin,119,0
+Probucol,503,356
+Crofelemer,83,0
+Mitiglinide,179,474
+Masoprocol,323,0
+Aminosalicylic Acid,851,525
+Indomethacin,671,0
+Diethylcarbamazine,839,274
+Bromfenac,263,120
+Salicylate-sodium,1727,0
+Acetylcysteine,611,51
+Nepafenac,167,120
